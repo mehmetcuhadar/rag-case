@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+asyncpg
+httpx
+pydantic-settings
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+python-jose[cryptography]
+qdrant-client==1.11.1
+datasets==2.20.0
+pandas==2.2.2
+pyarrow==17.0.0
+sentence-transformers==3.0.1
+fastembed
