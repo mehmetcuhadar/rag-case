@@ -113,7 +113,7 @@ Semantik benzerlikleri yakalar.
 Sparse Search (BM25)  
 Anahtar kelime eşleşmelerini yakalar.
 
-Bu iki sonuç Reciprocal Rank Fusion (RRF) algoritması ile birleştirilir ve en alakalı makaleler sıralanır.
+Bu iki sonuç DBSF algoritması ile birleştirilir ve en alakalı makaleler sıralanır.
 
 Bu yöntem özellikle teknik sorgularda daha doğru sonuçlar üretir.
 
